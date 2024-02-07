@@ -1,4 +1,5 @@
 # KU_Alchemists Game
+# COMP302 FALL 2023 2nd Best Project
 
 KU Alchemists is a fantastic board game that immerses players in a magical world
 where they must solve the riddles of magical ingredients and potions to become better
